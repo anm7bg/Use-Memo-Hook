@@ -20,7 +20,7 @@ function App() {
     //  }else{
     //   return false;
     //  }
-  }, [icon, text])
+  }, [text])
 
   let iconClass = "fas fa-times";
 
